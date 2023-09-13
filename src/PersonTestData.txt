@@ -1,0 +1,4 @@
+000001, Harry, Potter, Mr., 1998
+000002, Ron, Weasley, Mr., 1997
+000003, Joe, Random, Mr., 1999
+000004, John, Doe, Mr., 1992
